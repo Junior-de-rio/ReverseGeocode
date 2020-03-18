@@ -1,0 +1,4 @@
+Latitude;Longitude;Address
+33.58457309403874;-7.615965273569235;Sidi Belyout,Avenue Mers Sultan, Casablanca, Morocco
+33.59343900922606;-7.653387453744966;Anfa,208 Boulevard de Bourgogne, Casablanca, Morocco
+33.5479557984245;-7.638281252573111;Aïn Chock,Route de l'Oasis, Casablanca, Morocco
